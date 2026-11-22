@@ -47,21 +47,39 @@
     "iran-rtl-anim-wave"
   ];
 
-  // Load saved user preferences
-  chrome.storage.sync.get(["animation", "shortcut"], (res) => {
-    if (res.animation) currentAnimation = res.animation;
-    if (res.shortcut) currentShortcut = res.shortcut;
-  });
+  function safeSendMessage(msg) {
+    try {
+      if (!chrome.runtime || !chrome.runtime.id) return;
+      chrome.runtime.sendMessage(msg, () => {
+        void chrome.runtime.lastError;
+      });
+    } catch {
+      // Ignore invalidated extension context
+    }
+  }
 
-  chrome.storage.onChanged.addListener((changes, area) => {
-    if (area !== "sync") return;
-    if (changes.animation && changes.animation.newValue) {
-      currentAnimation = changes.animation.newValue;
+  // Load saved user preferences
+  try {
+    if (chrome.runtime && chrome.runtime.id && chrome.storage && chrome.storage.sync) {
+      chrome.storage.sync.get(["animation", "shortcut"], (res) => {
+        if (chrome.runtime.lastError || !res) return;
+        if (res.animation) currentAnimation = res.animation;
+        if (res.shortcut) currentShortcut = res.shortcut;
+      });
+
+      chrome.storage.onChanged.addListener((changes, area) => {
+        if (area !== "sync") return;
+        if (changes.animation && changes.animation.newValue) {
+          currentAnimation = changes.animation.newValue;
+        }
+        if (changes.shortcut && changes.shortcut.newValue) {
+          currentShortcut = changes.shortcut.newValue;
+        }
+      });
     }
-    if (changes.shortcut && changes.shortcut.newValue) {
-      currentShortcut = changes.shortcut.newValue;
-    }
-  });
+  } catch {
+    // Ignore storage access errors
+  }
 
   function isSkippedElement(el) {
     if (!el || el.nodeType !== Node.ELEMENT_NODE) return true;
@@ -240,14 +258,24 @@
     if (!toast) {
       toast = document.createElement("div");
       toast.id = "iran-rtl-toast";
-      toast.innerHTML = `<span class="iran-rtl-toast-dot"></span><span class="iran-rtl-toast-text"></span>`;
+
+      const dot = document.createElement("span");
+      dot.className = "iran-rtl-toast-dot";
+
+      const textSpan = document.createElement("span");
+      textSpan.className = "iran-rtl-toast-text";
+
+      toast.appendChild(dot);
+      toast.appendChild(textSpan);
       document.documentElement.appendChild(toast);
     }
 
     const textEl = toast.querySelector(".iran-rtl-toast-text");
-    textEl.textContent = enabled
-      ? "IRAN RTL: راست‌چین فعال شد"
-      : "IRAN RTL: راست‌چین غیرفعال شد";
+    if (textEl) {
+      textEl.textContent = enabled
+        ? "IRAN RTL: راست‌چین فعال شد"
+        : "IRAN RTL: راست‌چین غیرفعال شد";
+    }
 
     toast.classList.toggle("iran-rtl-toast-off", !enabled);
     toast.classList.add("iran-rtl-toast-visible");
@@ -268,10 +296,10 @@
       removeRTL(true);
     }
 
-    chrome.runtime.sendMessage({
+    safeSendMessage({
       type: "IRAN_RTL_STATE_CHANGED",
       enabled: isEnabled
-    }).catch(() => {});
+    });
 
     if (fromShortcut) {
       showToast(isEnabled);
@@ -316,6 +344,8 @@
 
   // Listen for messages from popup
   chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    if (!message || !message.type) return;
+
     if (message.type === "IRAN_RTL_GET_STATE") {
       sendResponse({ enabled: isEnabled });
       return true;
