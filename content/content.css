@@ -1,0 +1,169 @@
+/* IRAN RTL - Smart Block-Level RTL & Transition Animations */
+
+.iran-rtl-block {
+  direction: rtl !important;
+  text-align: right !important;
+  unicode-bidi: isolate !important;
+}
+
+input.iran-rtl-block,
+textarea.iran-rtl-block {
+  direction: rtl !important;
+  text-align: right !important;
+  unicode-bidi: plaintext !important;
+}
+
+/* 1. Fade Animation */
+@keyframes iranRtlFade {
+  0% {
+    opacity: 0.15;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.iran-rtl-anim-fade {
+  animation: iranRtlFade 0.38s cubic-bezier(0.22, 1, 0.36, 1) both !important;
+}
+
+/* 2. Glitch Animation */
+@keyframes iranRtlGlitch {
+  0% {
+    opacity: 0.65;
+    transform: translate(0, 0) skewX(0deg);
+    text-shadow: 2px 0 #ef4444, -2px 0 #06b6d4;
+  }
+  20% {
+    transform: translate(-3px, 1px) skewX(-4deg);
+    text-shadow: -3px 0 #ef4444, 3px 0 #06b6d4;
+  }
+  40% {
+    transform: translate(3px, -1px) skewX(3deg);
+    text-shadow: 2px 0 #06b6d4, -2px 0 #ef4444;
+  }
+  60% {
+    opacity: 0.9;
+    transform: translate(-2px, 0) skewX(-2deg);
+    text-shadow: -1px 0 #ef4444, 1px 0 #06b6d4;
+  }
+  80% {
+    transform: translate(1px, 0) skewX(1deg);
+    text-shadow: 1px 0 #06b6d4, -1px 0 #ef4444;
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0, 0) skewX(0deg);
+    text-shadow: none;
+  }
+}
+
+.iran-rtl-anim-glitch {
+  animation: iranRtlGlitch 0.42s steps(2, end) both !important;
+}
+
+/* 3. Slide Animation (RTL enter / LTR exit) */
+@keyframes iranRtlSlideIn {
+  0% {
+    opacity: 0.2;
+    transform: translateX(-16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes iranRtlSlideOut {
+  0% {
+    opacity: 0.2;
+    transform: translateX(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.iran-rtl-anim-slide-in {
+  animation: iranRtlSlideIn 0.38s cubic-bezier(0.22, 1, 0.36, 1) both !important;
+}
+
+.iran-rtl-anim-slide-out {
+  animation: iranRtlSlideOut 0.38s cubic-bezier(0.22, 1, 0.36, 1) both !important;
+}
+
+/* 4. Blur Pulse Animation */
+@keyframes iranRtlBlur {
+  0% {
+    opacity: 0.35;
+    filter: blur(5px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+.iran-rtl-anim-blur {
+  animation: iranRtlBlur 0.4s cubic-bezier(0.22, 1, 0.36, 1) both !important;
+}
+
+/* 5. Wave / Soft Lift Animation */
+@keyframes iranRtlWave {
+  0% {
+    opacity: 0.3;
+    transform: translateY(5px) scale(0.985);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.iran-rtl-anim-wave {
+  animation: iranRtlWave 0.38s cubic-bezier(0.22, 1, 0.36, 1) both !important;
+}
+
+/* Minimal Light-Theme Toast Notification */
+#iran-rtl-toast {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  z-index: 2147483647 !important;
+  direction: rtl !important;
+  font-family: Tahoma, "Segoe UI", system-ui, -apple-system, sans-serif !important;
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  line-height: 1.5 !important;
+  color: #0f172a !important;
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 12px !important;
+  padding: 10px 16px !important;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.12), 0 4px 10px -2px rgba(15, 23, 42, 0.06) !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  opacity: 0 !important;
+  transform: translateY(8px) !important;
+  transition: opacity 0.22s ease, transform 0.22s ease !important;
+  pointer-events: none !important;
+}
+
+#iran-rtl-toast.iran-rtl-toast-visible {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+#iran-rtl-toast .iran-rtl-toast-dot {
+  width: 8px !important;
+  height: 8px !important;
+  border-radius: 9999px !important;
+  background: #0d9488 !important;
+  flex-shrink: 0 !important;
+}
+
+#iran-rtl-toast.iran-rtl-toast-off .iran-rtl-toast-dot {
+  background: #94a3b8 !important;
+}
