@@ -244,7 +244,7 @@ IRAN-RTL/
 | Brave / Vivaldi / Opera | ✅ |
 | Firefox (WebExtensions) | ⚠️ قابل انتقال است؛ باید `background.scripts` جایگزین `service_worker` شود |
 | نسخه مانیفست | V3 |
-| نسخه افزونه | `1.0.0` |
+| نسخه افزونه | `1.0.1` |
 
 ---
 

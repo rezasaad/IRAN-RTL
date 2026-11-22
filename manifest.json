@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "IRAN RTL",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "راست‌چین‌سازی هوشمند متون وب‌سایت‌ها بدون تغییر چیدمان صفحه، با انیمیشن‌های متنوع و میانبر دلخواه",
   "permissions": [
     "storage",
