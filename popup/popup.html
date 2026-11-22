@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IRAN RTL</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="brand">
+        <div class="logo-box" aria-hidden="true">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+            <rect x="4" y="5" width="16" height="2.4" rx="1.2" fill="#0F766E"/>
+            <rect x="8" y="10.8" width="12" height="2.4" rx="1.2" fill="#0F766E"/>
+            <rect x="11" y="16.6" width="9" height="2.4" rx="1.2" fill="#14B8A6"/>
+            <path d="M8.5 17.8H4.5M4.5 17.8L6.5 15.8M4.5 17.8L6.5 19.8" stroke="#14B8A6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div>
+          <h1 class="title">IRAN RTL</h1>
+          <p class="subtitle" id="page-domain">در حال بررسی صفحه...</p>
+        </div>
+      </div>
+      <span class="status-pill" id="status-pill">غیرفعال</span>
+    </header>
+
+    <!-- Main Toggle Card -->
+    <section class="card toggle-card">
+      <div class="toggle-info">
+        <span class="card-label">راست‌چین در این صفحه</span>
+        <span class="card-hint">بدون تغییر در چیدمان کلی سایت</span>
+      </div>
+      <label class="switch" aria-label="فعال‌سازی راست‌چین در این صفحه">
+        <input type="checkbox" id="toggle-rtl" />
+        <span class="slider"></span>
+      </label>
+    </section>
+
+    <div id="unsupported-notice" class="notice hidden">
+      این صفحه سیستمی است و افزونه روی آن اجرا نمی‌شود.
+    </div>
+
+    <!-- Animation Selector -->
+    <section class="card">
+      <div class="section-head">
+        <span class="card-label">انیمیشن تغییر جهت</span>
+        <span class="card-hint">در زمان راست‌چین یا چپ‌چین شدن</span>
+      </div>
+      <div class="anim-grid" id="anim-grid">
+        <button type="button" class="anim-btn" data-anim="fade">فید نرم</button>
+        <button type="button" class="anim-btn" data-anim="glitch">گلیچ</button>
+        <button type="button" class="anim-btn" data-anim="slide">لغزش</button>
+        <button type="button" class="anim-btn" data-anim="blur">تاری و وضوح</button>
+        <button type="button" class="anim-btn" data-anim="wave">موج نرم</button>
+        <button type="button" class="anim-btn" data-anim="none">بدون انیمیشن</button>
+      </div>
+    </section>
+
+    <!-- Shortcut Recorder -->
+    <section class="card">
+      <div class="section-head">
+        <span class="card-label">میانبر کیبورد صفحه</span>
+        <button type="button" class="reset-btn" id="reset-shortcut" title="بازنشانی به Alt + R">بازنشانی</button>
+      </div>
+      <button type="button" class="shortcut-box" id="shortcut-box">
+        <span class="shortcut-hint" id="shortcut-hint">برای تغییر کلیک کنید</span>
+        <kbd class="shortcut-kbd" id="shortcut-display" dir="ltr">Alt + R</kbd>
+      </button>
+    </section>
+
+    <footer class="footer">
+      <span>ساخته شده توسط</span>
+      <a href="https://www.youtube.com/@rezasaadplus" target="_blank" rel="noopener noreferrer" class="credit-link" dir="ltr">@rezasaadplus</a>
+    </footer>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
