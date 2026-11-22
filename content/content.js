@@ -217,4 +217,120 @@
           }
         }
       });
-    }):ˆ(€€€½‰Í•ÉÙ•È¹½‰Í•ÉÙ”¡‘½Õµ•¹Ð¹‰½‘ä°ì(€€€€€¡¥±‘1¥ÍÐèÑÉÕ”°(€€€€€ÍÕ‰ÑÉ•”èÑÉÕ”(€€€ô¤ì(€ô((€™Õ¹Ñ¥½¸ÍÑ½Á=‰Í•ÉÙ•È ¤ì(€€€¥˜€¡½‰Í•ÉÙ•È¤ì(€€€€€½‰Í•ÉÙ•È¹‘¥Í½¹¹•Ð ¤ì(€€€€€½‰Í•ÉÙ•È€ô¹Õ±°ì(€€€ô(€€€¥˜€¡µÕÑ…Ñ¥½¹Q¥µ•È¤ì(€€€€€…¹•±¹¥µ…Ñ¥½¹É…µ”¡µÕÑ…Ñ¥½¹Q¥µ•È¤ì(€€€€€µÕÑ…Ñ¥½¹Q¥µ•È€ô¹Õ±°ì(€€€ô(€ô((€™Õ¹Ñ¥½¸Í¡½ÝQ½…ÍÐ¡•¹…‰±•¤ì(€€€±•ÐÑ½…ÍÐ€ô‘½Õµ•¹Ð¹•Ñ±•µ•¹Ñ	å% ‰¥É…¸µÉÑ°µÑ½…ÍÐˆ¤ì(€€€¥˜€ …Ñ½…ÍÐ¤ì(€€€€€Ñ½…ÍÐ€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ‰‘¥Øˆ¤ì(€€€€€Ñ½…ÍÐ¹¥€ô€‰¥É…¸µÉÑ°µÑ½…ÍÐˆì(€€€€€Ñ½…ÍÐ¹¥¹¹•É!Q50€ô€ñÍÁ…¸±…ÍÌô‰¥É…¸µÉÑ°µÑ½…ÍÐµ‘½Ðˆøð½ÍÁ…¸øñÍÁ…¸±…ÍÌô‰¥É…¸µÉÑ°µÑ½…ÍÐµÑ•áÐˆøð½ÍÁ…¸ù€ì(€€€€€‘½Õµ•¹Ð¹‘½Õµ•¹Ñ±•µ•¹Ð¹…ÁÁ•¹‘¡¥±¡Ñ½…ÍÐ¤ì(€€€ô((€€€½¹ÍÐÑ•áÑ°€ôÑ½…ÍÐ¹ÅÕ•ÉåM•±•Ñ½È ˆ¹¥É…¸µÉÑ°µÑ½…ÍÐµÑ•áÐˆ¤ì(€€€Ñ•áÑ°¹Ñ•áÑ½¹Ñ•¹Ð€ô•¹…‰±•(€€€€€€ü€‰%I8IQ0èƒbÇbŸbÏb«Š3jn3fƒfbçbŸfƒbÓb¼ˆ(€€€€€€è€‰%I8IQ0èƒbÇbŸbÏb«Š3jn3fƒbën3bÇfbçbŸfƒbÓb¼ˆì((€€€Ñ½…ÍÐ¹±…ÍÍ1¥ÍÐ¹Ñ½±” ‰¥É…¸µÉÑ°µÑ½…ÍÐµ½™˜ˆ°€…•¹…‰±•¤ì(€€€Ñ½…ÍÐ¹±…ÍÍ1¥ÍÐ¹…‘ ‰¥É…¸µÉÑ°µÑ½…ÍÐµÙ¥Í¥‰±”ˆ¤ì((€€€¥˜€¡Ñ½…ÍÑQ¥µ•È¤±•…ÉQ¥µ•½ÕÐ¡Ñ½…ÍÑQ¥µ•È¤ì(€€€Ñ½…ÍÑQ¥µ•È€ôÍ•ÑQ¥µ•½ÕÐ  ¤€ôøì(€€€€€Ñ½…ÍÐ¹±…ÍÍ1¥ÍÐ¹É•µ½Ù” ‰¥É…¸µÉÑ°µÑ½…ÍÐµÙ¥Í¥‰±”ˆ¤ì(€€€ô°€ÄäÀÀ¤ì(€ô((€™Õ¹Ñ¥½¸Í•Ñ¹…‰±•¡¹•áÑMÑ…Ñ”°™É½µM¡½ÉÑÕÐ€ô™…±Í”¤ì(€€€¥Í¹…‰±•€ô	½½±•…¸¡¹•áÑMÑ…Ñ”¤ì(€€€¥˜€¡¥Í¹…‰±•¤ì(€€€€€…ÁÁ±åIQ0¡‘½Õµ•¹Ð¹‰½‘ä°ÑÉÕ”¤ì(€€€€€ÍÑ…ÉÑ=‰Í•ÉÙ•È ¤ì(€€€ô•±Í”ì(€€€€€ÍÑ½Á=‰Í•ÉÙ•È ¤ì(€€€€€É•µ½Ù•IQ0¡ÑÉÕ”¤ì(€€€ô((€€€¡É½µ”¹ÉÕ¹Ñ¥µ”¹Í•¹‘5•ÍÍ…”¡ì(€€€€€ÑåÁ”è€‰%I9}IQ1}MQQ}!9ˆ°(€€€€€•¹…‰±•è¥Í¹…‰±•(€€€ô¤¹…Ñ   ¤€ôøíô¤ì((€€€¥˜€¡™É½µM¡½ÉÑÕÐ¤ì(€€€€€Í¡½ÝQ½…ÍÐ¡¥Í¹…‰±•¤ì(€€€ô(€ô((€€¼¼1¥ÍÑ•¸™½ÈÕÍÑ½´­•å‰½…ÉÍ¡½ÉÑÕÐ½¸Ñ¡¥ÌÁ…”(€Ý¥¹‘½Ü¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È (€€€€‰­•å‘½Ý¸ˆ°(€€€€¡”¤€ôøì(€€€€€¥˜€ …ÕÉÉ•¹ÑM¡½ÉÑÕÐñð€…ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹­•ä¤É•ÑÕÉ¸ì((€€€€€€¼¼Ù½¥ÑÉ¥•É¥¹œ½¸Á±…¥¸Í¥¹±”­•åÌÝ¡¥±”ÑåÁ¥¹œ¥¸…¸¥¹ÁÕÐ(€€€€€½¹ÍÐ…Ñ¥Ù•Q…œ€ô‘½Õµ•¹Ð¹…Ñ¥Ù•±•µ•¹Ð€ü‘½Õµ•¹Ð¹…Ñ¥Ù•±•µ•¹Ð¹Ñ…9…µ”€è€ˆˆì(€€€€€½¹ÍÐ¥ÍQåÁ¥¹œ€ô(€€€€€€€…Ñ¥Ù•Q…œ€ôôô€‰%9AUPˆñð(€€€€€€€…Ñ¥Ù•Q…œ€ôôô€‰QaQIˆñð(€€€€€€€€¡‘½Õµ•¹Ð¹…Ñ¥Ù•±•µ•¹Ð€˜˜‘½Õµ•¹Ð¹…Ñ¥Ù•±•µ•¹Ð¹¥Í½¹Ñ•¹Ñ‘¥Ñ…‰±”¤ì((€€€€€½¹ÍÐ¡…Í5½‘¥™¥•È€ô(€€€€€€€ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹…±Ñ-•äñð(€€€€€€€ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹ÑÉ±-•äñð(€€€€€€€ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹Í¡¥™Ñ-•äñð(€€€€€€€ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹µ•Ñ…-•äì((€€€€€¥˜€¡¥ÍQåÁ¥¹œ€˜˜€…¡…Í5½‘¥™¥•È¤É•ÑÕÉ¸ì((€€€€€¥˜€ (€€€€€€€”¹½‘”€ôôôÕÉÉ•¹ÑM¡½ÉÑÕÐ¹­•ä€˜˜(€€€€€€€”¹…±Ñ-•ä€ôôô	½½±•…¸¡ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹…±Ñ-•ä¤€˜˜(€€€€€€€”¹ÑÉ±-•ä€ôôô	½½±•…¸¡ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹ÑÉ±-•ä¤€˜˜(€€€€€€€”¹Í¡¥™Ñ-•ä€ôôô	½½±•…¸¡ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹Í¡¥™Ñ-•ä¤€˜˜(€€€€€€€”¹µ•Ñ…-•ä€ôôô	½½±•…¸¡ÕÉÉ•¹ÑM¡½ÉÑÕÐ¹µ•Ñ…-•ä¤(€€€€€€¤ì(€€€€€€€”¹ÁÉ•Ù•¹Ñ•™…Õ±Ð ¤ì(€€€€€€€”¹ÍÑ½ÁAÉ½Á……Ñ¥½¸ ¤ì(€€€€€€€Í•Ñ¹…‰±• …¥Í¹…‰±•°ÑÉÕ”¤ì(€€€€€ô(€€€ô°(€€€ÑÉÕ”(€€¤ì((€€¼¼1¥ÍÑ•¸™½Èµ•ÍÍ…•Ì™É½´Á½ÁÕÀ(€¡É½µ”¹ÉÕ¹Ñ¥µ”¹½¹5•ÍÍ…”¹…‘‘1¥ÍÑ•¹•È ¡µ•ÍÍ…”°Í•¹‘•È°Í•¹‘I•ÍÁ½¹Í”¤€ôøì(€€€¥˜€¡µ•ÍÍ…”¹ÑåÁ”€ôôô€‰%I9}IQ1}Q}MQQˆ¤ì(€€€€€Í•¹‘I•ÍÁ½¹Í”¡ì•¹…‰±•è¥Í¹…‰±•ô¤ì(€€€€€É•ÑÕÉ¸ÑÉÕ”ì(€€€ô((€€€¥˜€¡µ•ÍÍ…”¹ÑåÁ”€ôôô€‰%I9}IQ1}MQ}MQQˆ¤ì(€€€€€Í•Ñ¹…‰±•¡µ•ÍÍ…”¹•¹…‰±•°™…±Í”¤ì(€€€€€Í•¹‘I•ÍÁ½¹Í”¡ì•¹…‰±•è¥Í¹…‰±•ô¤ì(€€€€€É•ÑÕÉ¸ÑÉÕ”ì(€€€ô((€€€¥˜€¡µ•ÍÍ…”¹ÑåÁ”€ôôô€‰%I9}IQ1}Q=1ˆ¤ì(€€€€€Í•Ñ¹…‰±• …¥Í¹…‰±•°™…±Í”¤ì(€€€€€Í•¹‘I•ÍÁ½¹Í”¡ì•¹…‰±•è¥Í¹…‰±•ô¤ì(€€€€€É•ÑÕÉ¸ÑÉÕ”ì(€€€ô(€ô¤ì)ô¤ ¤ì(
+    });
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  }
+
+  function stopObserver() {
+    if (observer) {
+      observer.disconnect();
+      observer = null;
+    }
+    if (mutationTimer) {
+      cancelAnimationFrame(mutationTimer);
+      mutationTimer = null;
+    }
+  }
+
+  function showToast(enabled) {
+    let toast = document.getElementById("iran-rtl-toast");
+    if (!toast) {
+      toast = document.createElement("div");
+      toast.id = "iran-rtl-toast";
+      toast.innerHTML = `<span class="iran-rtl-toast-dot"></span><span class="iran-rtl-toast-text"></span>`;
+      document.documentElement.appendChild(toast);
+    }
+
+    const textEl = toast.querySelector(".iran-rtl-toast-text");
+    textEl.textContent = enabled
+      ? "IRAN RTL: Ø±Ø§Ø³Øªâ€ŒÚ†ÛŒÙ† ÙØ¹Ø§Ù„ Ø´Ø¯"
+      : "IRAN RTL: Ø±Ø§Ø³Øªâ€ŒÚ†ÛŒÙ† ØºÛŒØ±ÙØ¹Ø§Ù„ Ø´Ø¯";
+
+    toast.classList.toggle("iran-rtl-toast-off", !enabled);
+    toast.classList.add("iran-rtl-toast-visible");
+
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      toast.classList.remove("iran-rtl-toast-visible");
+    }, 1900);
+  }
+
+  function setEnabled(nextState, fromShortcut = false) {
+    isEnabled = Boolean(nextState);
+    if (isEnabled) {
+      applyRTL(document.body, true);
+      startObserver();
+    } else {
+      stopObserver();
+      removeRTL(true);
+    }
+
+    chrome.runtime.sendMessage({
+      type: "IRAN_RTL_STATE_CHANGED",
+      enabled: isEnabled
+    }).catch(() => {});
+
+    if (fromShortcut) {
+      showToast(isEnabled);
+    }
+  }
+
+  // Listen for custom keyboard shortcut on this page
+  window.addEventListener(
+    "keydown",
+    (e) => {
+      if (!currentShortcut || !currentShortcut.key) return;
+
+      // Avoid triggering on plain single keys while typing in an input
+      const activeTag = document.activeElement ? document.activeElement.tagName : "";
+      const isTyping =
+        activeTag === "INPUT" ||
+        activeTag === "TEXTAREA" ||
+        (document.activeElement && document.activeElement.isContentEditable);
+
+      const hasModifier =
+        currentShortcut.altKey ||
+        currentShortcut.ctrlKey ||
+        currentShortcut.shiftKey ||
+        currentShortcut.metaKey;
+
+      if (isTyping && !hasModifier) return;
+
+      if (
+        e.code === currentShortcut.key &&
+        e.altKey === Boolean(currentShortcut.altKey) &&
+        e.ctrlKey === Boolean(currentShortcut.ctrlKey) &&
+        e.shiftKey === Boolean(currentShortcut.shiftKey) &&
+        e.metaKey === Boolean(currentShortcut.metaKey)
+      ) {
+        e.preventDefault();
+        e.stopPropagation();
+        setEnabled(!isEnabled, true);
+      }
+    },
+    true
+  );
+
+  // Listen for messages from popup
+  chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    if (message.type === "IRAN_RTL_GET_STATE") {
+      sendResponse({ enabled: isEnabled });
+      return true;
+    }
+
+    if (message.type === "IRAN_RTL_SET_STATE") {
+      setEnabled(message.enabled, false);
+      sendResponse({ enabled: isEnabled });
+      return true;
+    }
+
+    if (message.type === "IRAN_RTL_TOGGLE") {
+      setEnabled(!isEnabled, false);
+      sendResponse({ enabled: isEnabled });
+      return true;
+    }
+  });
+})();
